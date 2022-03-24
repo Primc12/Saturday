@@ -1,2 +1,2 @@
 # Saturday
-Inteliigent Assistant
+intelligent Assistant
